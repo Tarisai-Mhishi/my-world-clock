@@ -4,7 +4,7 @@ body {
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background: lightseagreen;
+  background: rgb(98, 192, 220);
   padding: 60px;
   box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.1);
   border-radius: 15px;
